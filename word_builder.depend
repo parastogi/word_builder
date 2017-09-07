@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1493581081 source:c:\users\paras\desktop\word_builder\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+	<stdio.h>
+	<string>
+
